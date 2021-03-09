@@ -1,0 +1,2 @@
+rootProject.name='Label_image_with_Ml_Kit'
+include ':app'
